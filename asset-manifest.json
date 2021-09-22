@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/experiment-react-jest-mock/static/css/main.abad264a.chunk.css",
+    "main.js": "/experiment-react-jest-mock/static/js/main.26c3a3d5.chunk.js",
+    "main.js.map": "/experiment-react-jest-mock/static/js/main.26c3a3d5.chunk.js.map",
+    "runtime-main.js": "/experiment-react-jest-mock/static/js/runtime-main.50d9e1ee.js",
+    "runtime-main.js.map": "/experiment-react-jest-mock/static/js/runtime-main.50d9e1ee.js.map",
+    "static/js/2.02309886.chunk.js": "/experiment-react-jest-mock/static/js/2.02309886.chunk.js",
+    "static/js/2.02309886.chunk.js.map": "/experiment-react-jest-mock/static/js/2.02309886.chunk.js.map",
+    "static/js/3.5da4e2f8.chunk.js": "/experiment-react-jest-mock/static/js/3.5da4e2f8.chunk.js",
+    "static/js/3.5da4e2f8.chunk.js.map": "/experiment-react-jest-mock/static/js/3.5da4e2f8.chunk.js.map",
+    "index.html": "/experiment-react-jest-mock/index.html",
+    "static/css/main.abad264a.chunk.css.map": "/experiment-react-jest-mock/static/css/main.abad264a.chunk.css.map",
+    "static/js/2.02309886.chunk.js.LICENSE.txt": "/experiment-react-jest-mock/static/js/2.02309886.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/experiment-react-jest-mock/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50d9e1ee.js",
+    "static/js/2.02309886.chunk.js",
+    "static/css/main.abad264a.chunk.css",
+    "static/js/main.26c3a3d5.chunk.js"
+  ]
+}
